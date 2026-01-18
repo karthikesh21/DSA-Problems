@@ -18,6 +18,7 @@ public class DiamondPattern {
             }
             System.out.println();
         }
+        
 
         // Bottom half
         for (int i = n - 2; i >= 0; i--) {
